@@ -1,0 +1,4 @@
+Knowing the fact that the polynomial P(x)= x**2 - x + 41
+gives you prime numbers for all the values 0 to 40
+I wanted to know if it would give you also a lot of prime numbers going forward
+the program asks you to choose an interval and it tells you which numbers give primes and which that don't 

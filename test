@@ -1,0 +1,15 @@
+import math
+from random import randint
+n=4
+
+comp=[]
+while len(comp) != math.factorial(n):
+	l=[]
+	while len(l) != n:
+		r = randint(0, n-1)
+		if r not in l:
+			l.append(r)
+	comp.append(l)
+
+print(len(comp))
+print(comp)

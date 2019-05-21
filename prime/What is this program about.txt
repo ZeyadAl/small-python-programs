@@ -1,0 +1,1 @@
+basicly you type in a number and it tells you weather it is prime or not

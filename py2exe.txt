@@ -1,0 +1,15 @@
+"shift + right click"
+
+"open command window here"
+
+type:
+
+"pyinstaller (file name with the extension)"
+
+then enter
+
+or if you want only the exe file in the dist file
+
+type:
+
+"pyinstaller -F (file name with the extension)"

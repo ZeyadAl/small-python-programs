@@ -1,0 +1,1 @@
+This is a script to download all the html files that make the book, and there is another script that is made for renaming them so that we can join them by using a wild card instead pf specifing things. I didn't find a way that makes me join these into one html file. I tried jining them into one PDF file and the resault was not good.

@@ -1,3 +1,3 @@
 # small-python-projects
 
-These are just random programs I wrote
+These are just random programs I wrote.
